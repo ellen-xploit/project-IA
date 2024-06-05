@@ -1,7 +1,7 @@
 # O Futuro da IA Generativa na Segurança Cibernética 🌐
 
 ## 📒 Descrição
-Este [e-book de 13 páginas](https://github.com/cleidielen/lab-natty-or-not/blob/62b62f1aeb263d74dc0055af7ff199e275f4d9e0/Ebook%20-%20O%20Futuro%20da%20IA%20Generativa%20na%20Seguran%C3%A7a%20Cibern%C3%A9tica.pdf) explora o impacto revolucionário da IA Generativa na segurança cibernética e como ela moldará o futuro.
+Este [e-book] de 13 páginas (https://github.com/cleidielen/lab-natty-or-not/blob/62b62f1aeb263d74dc0055af7ff199e275f4d9e0/Ebook%20-%20O%20Futuro%20da%20IA%20Generativa%20na%20Seguran%C3%A7a%20Cibern%C3%A9tica.pdf) explora o impacto revolucionário da IA Generativa na segurança cibernética e como ela moldará o futuro.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
