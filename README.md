@@ -1,5 +1,3 @@
-# Project-IA
-
 # O Futuro da IA Generativa na Segurança Cibernética 🌐
 
 ## 📒 Descrição
