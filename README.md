@@ -1,3 +1,5 @@
+# Project-IA
+
 # O Futuro da IA Generativa na Segurança Cibernética 🌐
 
 ## 📒 Descrição
@@ -14,3 +16,6 @@ Utilizei o ChatGPT para revisar minha pesquisa sobre IA Generativa, estruturar o
 
 ## 🚀 Resultados
 O [e-book](https://github.com/cleidielen/lab-natty-or-not/blob/62b62f1aeb263d74dc0055af7ff199e275f4d9e0/Ebook%20-%20O%20Futuro%20da%20IA%20Generativa%20na%20Seguran%C3%A7a%20Cibern%C3%A9tica.pdf) apresenta um conteúdo envolvente sobre o impacto da IA Generativa na segurança cibernética, demonstrando como a IA Generativa pode ser uma ferramenta poderosa na segurança cibernética, educação e disseminação do conhecimento.
+
+## 📢 Atualização
+Este repositório foi movido para a conta **ellen-xploit**. Originalmente, ele foi hospedado na conta **cleidielen**, mas agora está sob a nova conta para facilitar o desenvolvimento e manter a continuidade do projeto. Todas as contribuições são bem-vindas!
